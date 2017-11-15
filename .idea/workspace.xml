@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffbd59f-e2ac-4a3d-bbcc-462679b485a2" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/1.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/2.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/3.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/4.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/5.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/6.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/7.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/8.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/app-iPhone.png" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/app-iPhone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/back-customers.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/back-customers.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/berlin.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/berlin.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/customer-1.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/customer-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/customer-2.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/customer-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/customer-3.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/customer-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/lisbon-3.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/lisbon-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/logo-white.png" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/logo-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/logo.png" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/london.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/london.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Omnifood Contents/san-francisco.jpg" afterPath="$PROJECT_DIR$/Omnifood/resources/css/img/san-francisco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Omnifood/index.html" afterPath="$PROJECT_DIR$/Omnifood/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Omnifood/resources/css/style.css" afterPath="$PROJECT_DIR$/Omnifood/resources/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,20 +16,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Omnifood/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="535">
+              <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+              <folding>
+                <element signature="e#1815#1822#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Omnifood/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="337">
               <caret line="127" column="19" lean-forward="false" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
               <folding />
             </state>
@@ -75,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Omnifood/index.html" />
         <option value="$PROJECT_DIR$/Omnifood/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/Omnifood/index.html" />
       </list>
     </option>
   </component>
@@ -87,9 +68,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -189,23 +171,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510619788871</updated>
-      <workItem from="1510619790110" duration="7532000" />
+      <workItem from="1510619790110" duration="8791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7532000" />
+    <option name="totallyTimeSpent" value="8791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22847222" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17135416" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4472973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33604062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -239,19 +221,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Omnifood/index.html">
+    <entry file="file://$PROJECT_DIR$/Omnifood/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="337">
+          <caret line="127" column="19" lean-forward="false" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Omnifood/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Omnifood/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="127" column="19" lean-forward="false" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="535">
+          <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+          <folding>
+            <element signature="e#1815#1822#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
