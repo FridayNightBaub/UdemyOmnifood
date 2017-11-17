@@ -81,6 +81,20 @@ section {
     margin-bottom: 10px;
 }
 
+.icon-small {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    color: #e67e22;
+    font-size: 120%;
+    margin-right: 10px;
+
+/*--secrets to align text and icons */
+    line-height: 110%;
+    vertical-align: middle;
+    margin-top: -5px;
+}
+
 /*--------------------------------------------*/
 /* HEADINGS */
 /*--------------------------------------------*/
@@ -121,6 +135,24 @@ h2:after {
 h3 {
     font-size: 110%;
     margin-bottom: 15px;
+}
+
+/*--------------------------------------------*/
+/* GENERIC LINKS */
+/*--------------------------------------------*/
+
+a:link,
+a:active {
+ color: orange;
+    text-decoration: none;
+    border-bottom: 1px solid #e67e22;
+    transition: border-bottom 0.2s, color 0.2s;
+}
+
+a:hover,
+a:active {
+    color: #555;
+    border-bottom: transparent;
 }
 
 /*--------------------------------------------*/
@@ -267,7 +299,7 @@ header {
 /*--------------------------------------------*/
 
 .section-steps {
-    background-color: #ffffff;
+    background-color: #f1f3f5;
 }
 
 .steps-box {
@@ -312,9 +344,31 @@ header {
 
 }
 
+.button-app:link,
+.button-app:visited {
+    border: 0;
+
+
+}
+
 .button-app img {
     height: 50px;
     width: auto;
     margin-right: 10px;
 
 }
+
+/*--------------------------------------------*/
+/* CITIES */
+/*--------------------------------------------*/
+
+.box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.city-feature {
+    margin-bottom: 5px;
+}
+
