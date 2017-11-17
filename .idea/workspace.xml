@@ -20,11 +20,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Omnifood/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1226">
-              <caret line="194" column="52" lean-forward="false" selection-start-line="194" selection-start-column="52" selection-end-line="194" selection-end-column="52" />
+            <state relative-caret-position="598">
+              <caret line="247" column="18" lean-forward="true" selection-start-line="217" selection-start-column="8" selection-end-line="247" selection-end-column="18" />
               <folding>
-                <element signature="e#1815#1822#0" expanded="true" />
-                <element signature="e#6348#6355#0" expanded="true" />
+                <element signature="e#1853#1860#0" expanded="true" />
+                <element signature="e#6386#6393#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,8 +33,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Omnifood/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="374" column="0" lean-forward="true" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
+            <state relative-caret-position="461">
+              <caret line="404" column="1" lean-forward="true" selection-start-line="404" selection-start-column="1" selection-end-line="404" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -55,6 +55,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>hidden</find>
+      <find>url</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -184,12 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510619788871</updated>
-      <workItem from="1510619790110" duration="19416000" />
+      <workItem from="1510619790110" duration="21940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19416000" />
+    <option name="totallyTimeSpent" value="21940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -236,19 +237,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Omnifood/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1226">
-          <caret line="194" column="52" lean-forward="false" selection-start-line="194" selection-start-column="52" selection-end-line="194" selection-end-column="52" />
+        <state relative-caret-position="598">
+          <caret line="247" column="18" lean-forward="true" selection-start-line="217" selection-start-column="8" selection-end-line="247" selection-end-column="18" />
           <folding>
-            <element signature="e#1815#1822#0" expanded="true" />
-            <element signature="e#6348#6355#0" expanded="true" />
+            <element signature="e#1853#1860#0" expanded="true" />
+            <element signature="e#6386#6393#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Omnifood/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="374" column="0" lean-forward="true" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
+        <state relative-caret-position="461">
+          <caret line="404" column="1" lean-forward="true" selection-start-line="404" selection-start-column="1" selection-end-line="404" selection-end-column="1" />
           <folding />
         </state>
       </provider>
