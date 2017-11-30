@@ -232,10 +232,10 @@ header {
 
 
 .logo {
-    margin-top: 20px;
     height: 100px;
     width: auto;
     float: left;
+    margin-top: 20px;
 }
 
 .logo-black {
@@ -269,6 +269,7 @@ header {
     text-transform: uppercase;
     font-size: 90%;
     border-bottom: 2px solid transparent;
+    -webkit-transition: border-bottom 0.2s;
     transition: border-bottom 0.2s;
 }
 
@@ -277,6 +278,18 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 
+/* MOBILE NAVI */
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    display: none;
+    cursor: pointer;
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
 
 /*--------------------------------------------*/
 /* STICKY NAVI */
@@ -292,16 +305,19 @@ header {
     z-index: 9999;
 }
 
+.main-nav { margin-top: 18px }
+
 .sticky .main-nav { margin-top: 18px; }
 
-.sticky, .main-nav li a:link,
-.sticky, .main-nav li a:visited {
+.sticky .main-nav li a:link,
+.sticky .main-nav li a:visited {
     padding: 16px 0;
     color: #555;
+
 }
 
-.sticky, .logo { display: none; }
-.sticky, .logo-black { display: block; }
+.sticky .logo { display: none; }
+.sticky .logo-black { display: block; }
 
 
 
@@ -538,7 +554,7 @@ cite img {
 
 
 .contact-form {
-    width: 60%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -563,8 +579,31 @@ input[type=checkbox] {
 
 }
 
-*:focus {outline: none;}
+*:focus { outline: none; }
 
+.map-box {
+    width: 100%;
+    height: 560px;
+    position: relative;
+}
+
+.map {
+    width: 100%;
+    height: 560px;
+    position: relative;
+    z-index: 0;
+}
+
+.form-box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 10;
+    height: 560px;
+    padding-top: 40px;
+    width: 50%;
+}
 
 /*--------------------------------------------*/
 /* FOOTER */

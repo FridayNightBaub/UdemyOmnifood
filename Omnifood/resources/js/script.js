@@ -66,5 +66,46 @@ $(document).ready(function() {
         offset: '50%'
     });
 
+    /* Mobile Navigation */
 
+    $('.js--nav-icon').click(function(){
+
+      var nav = $('.js--main-nav');
+      var icon = $('.js--nav-icon i')
+
+      nav.slideToggle(200);
+
+      if (icon.hasClass('ion-navicon-round')) {
+        icon.addClass('ion-close-round');
+        icon.removeClass('ion-navicon-round');
+      } else {
+        icon.addClass('ion-navicon-round');
+      } icon.removeClass('ion-close-round');
+
+    });
+
+    /* maps */
+
+         var map = new GMaps({
+              div: '.map',
+              lat: 38.7437396,
+              lng: -9.05,
+              zoom: 12
+         });
+
+         map.addMarker({
+           lat: 38.72,
+           lng: -9.14,
+           title: 'Lisbon',
+           click: function(e) {
+             alert('You clicked in this marker');
+           }
+         });
+
+       
 });
+
+
+
+
+
